@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-triple-digit-wood-design.dream-surge.com/sitemap-index.xml
